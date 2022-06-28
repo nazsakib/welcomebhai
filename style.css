@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main-area {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+.footer-area {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+.footer-area h4, h6 {
+    margin: 0;
+    padding-bottom: 10px;
+}
+h4 {
+    color: red;
+}
